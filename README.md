@@ -1253,3 +1253,4 @@ activities/
 - 📅 Contribuição em 28/04/1973
 - 📅 Contribuição em 29/04/1973
 - 📅 Contribuição em 30/04/1973
+- 📅 Contribuição em 01/05/1973
