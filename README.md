@@ -2137,3 +2137,4 @@ activities/
 - 📅 Contribuição em 29/09/1975
 - 📅 Contribuição em 30/09/1975
 - 📅 Contribuição em 01/10/1975
+- 📅 Contribuição em 02/10/1975
