@@ -36,3 +36,5 @@ activities/
 *"A consistência é a chave do sucesso!"* ✨
 
 ### 📈 Histórico de Contribuições
+
+- 📅 Contribuição em 01/01/1970
